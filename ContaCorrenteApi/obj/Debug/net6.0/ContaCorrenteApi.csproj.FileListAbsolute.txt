@@ -1,0 +1,142 @@
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\appsettings.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.exe
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.deps.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.runtimeconfig.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.pdb
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrentLibrary.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.AssemblyReference.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.AssemblyInfoInputs.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.AssemblyInfo.cs
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.CoreCompileInputs.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.ContaCorrenteApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ContaCorrenteApi.props
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContaCorrenteApi.props
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContaCorrenteApi.props
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\scopedcss\bundle\ContaCorrenteApi.styles.css
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.CopyComplete
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\refint\ContaCorrenteApi.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.pdb
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.genruntimeconfig.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ref\ContaCorrenteApi.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Dapper.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\appsettings.Development.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\appsettings.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.exe
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.deps.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.runtimeconfig.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrenteApi.pdb
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Azure.Core.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Dapper.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrentLibrary.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\bin\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.AssemblyReference.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.AssemblyInfoInputs.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.AssemblyInfo.cs
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.CoreCompileInputs.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.ContaCorrenteApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ContaCorrenteApi.props
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContaCorrenteApi.props
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContaCorrenteApi.props
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\scopedcss\bundle\ContaCorrenteApi.styles.css
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.csproj.CopyComplete
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\refint\ContaCorrenteApi.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.pdb
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ContaCorrenteApi.genruntimeconfig.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrenteApi\obj\Debug\net6.0\ref\ContaCorrenteApi.dll

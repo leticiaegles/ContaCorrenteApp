@@ -1,0 +1,24 @@
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.deps.json
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.csproj.AssemblyReference.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.AssemblyInfoInputs.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.AssemblyInfo.cs
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.csproj.CoreCompileInputs.cache
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\refint\ContaCorrentLibrary.dll
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\Studio Programas\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ref\ContaCorrentLibrary.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.deps.json
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\bin\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.csproj.AssemblyReference.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.AssemblyInfoInputs.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.AssemblyInfo.cs
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.csproj.CoreCompileInputs.cache
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\refint\ContaCorrentLibrary.dll
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ContaCorrentLibrary.pdb
+C:\ATIVA\ContaCorrenteApp\ContaCorrentLibrary\obj\Debug\net6.0\ref\ContaCorrentLibrary.dll
